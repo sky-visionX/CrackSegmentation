@@ -13,12 +13,12 @@ Our experimental results on two public pavement crack segmentation datasets conf
 
 ## 快速开始
 
-以下是如何安装和使用 The proposed crack segmentation framework 的简要说明：
+Here is a brief explanation on how to install and use the proposed crack segmentation framework:
 
 ```bash
-# 克隆仓库
+# Clone repository
 git clone https://github.com/yourusername/sues-vision.git
 cd sues-vision
 
-# 安装依赖
+# Install dependencies
 pip install -r requirements.txt
