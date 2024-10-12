@@ -13,7 +13,7 @@ Our experimental results on two public pavement crack segmentation datasets conf
 
 ## 快速开始
 
-以下是如何安装和使用 TV-Net 的简要说明：
+以下是如何安装和使用 The proposed crack segmentation framework 的简要说明：
 
 ```bash
 # 克隆仓库
