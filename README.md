@@ -22,3 +22,6 @@ cd sues-vision
 
 # Install dependencies
 pip install -r requirements.txt
+
+## Thanks
+Code copied a lot from [SAM-Adapter](https://github.com/tianrun-chen/SAM-Adapter-PyTorch).
