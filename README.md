@@ -9,3 +9,16 @@ However, the effectiveness of the SAM-Adapter is constrained by noisy labels wit
 In this paper, we present an innovative joint learning framework that utilizes distribution-aware domain-specific semantic knowledge to guide the discriminative learning process of the SAM-Adapter. 
 To our knowledge, this is the first approach that effectively minimizes the adverse effects of noisy labels on the supervised learning of the SAM-Adapter.
 Our experimental results on two public pavement crack segmentation datasets confirm that our method significantly outperforms existing state-of-the-art techniques. Furthermore, evaluations on the completely unseen CFD dataset demonstrate the high cross-domain generalization capability of our model, underscoring its potential for practical applications in crack segmentation.
+
+
+## 快速开始
+
+以下是如何安装和使用 TV-Net 的简要说明：
+
+```bash
+# 克隆仓库
+git clone https://github.com/yourusername/sues-vision.git
+cd sues-vision
+
+# 安装依赖
+pip install -r requirements.txt
