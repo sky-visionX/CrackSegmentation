@@ -23,4 +23,5 @@ cd sues-vision
 # Install dependencies
 pip install -r requirements.txt
 
-
+## Thanks
+Code was modified based on the [SAM-Adapter-PyTorch].
