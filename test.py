@@ -159,7 +159,7 @@ def eval_psnr(loader, model,  data_norm=None, eval_type=None, eval_bsize=None,
 if __name__ == '__main__':                                                                                                                
     parser = argparse.ArgumentParser()
     parser.add_argument('--config', default="./configs/cod-sam-vit-h.yaml")
-    parser.add_argument('--model', default="/home/dell/PycharmProjects/SAM-Adapter-PyTorch-main/save/gmm/new_4/_cod-sam-vit-h/model_epoch_best.pth")
+    parser.add_argument('--model', default="save/gmm/new_4/_cod-sam-vit-h/model_epoch_best.pth")
     # parser.add_argument('--model_b', default="./save/model_vitb_epoch_best_0_120.pth")
     parser.add_argument('--prompt', default='none')
     args = parser.parse_args()
